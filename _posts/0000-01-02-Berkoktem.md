@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hey Jude!!
+"Let's dance all night!"
